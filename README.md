@@ -2,7 +2,7 @@
 light rpc framework, easy to use and learning
 
 ## structure
-  * contract: for test purpose
+  * contract: for test purpose, including interfaces and beans that client and server will use
   * rpc-core: core bean definition and serialize
   * rpc-client
   * rpc-server
